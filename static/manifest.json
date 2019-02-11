@@ -1,0 +1,43 @@
+{
+  "name": "xd-bold-it",
+  "id": "15021971",
+  "version": "1.0.0",
+  "description": "xd-bold-it will bolden any string in a selection of Text elements",
+  "icons": [
+    {
+      "width": 96,
+      "height": 96,
+      "path": "images/icon.png"
+    }
+  ],
+  "host": {
+    "app": "XD",
+    "minVersion": "13.0.0"
+  },
+  "uiEntryPoints": [
+    {
+      "type": "menu",
+      "label": {
+        "en": "xd-bold-it",
+        "ja": "xd-bold-it",
+        "fr": "xd-bold-it",
+        "de": "xd-bold-it",
+        "es": "xd-bold-it",
+        "it": "xd-bold-it",
+        "ko": "xd-bold-it",
+        "pt": "xd-bold-it",
+        "da": "xd-bold-it",
+        "no": "xd-bold-it",
+        "nl": "xd-bold-it",
+        "zh": "xd-bold-it",
+        "ru": "xd-bold-it",
+        "fi": "xd-bold-it",
+        "pl": "xd-bold-it",
+        "uk": "xd-bold-it",
+        "sv": "xd-bold-it",
+        "default": "xd-bold-it"
+      },
+      "commandId": "menuCommand"
+    }
+  ]
+}
